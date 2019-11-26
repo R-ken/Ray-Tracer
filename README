@@ -1,0 +1,14 @@
+To compile:
+
+run "make"
+
+To run:
+
+use command "./rayT"
+
+Instructions:
+
+Program will ask for an input from numbers 1 - 4. 
+	- enter only 1,2,3 or 4
+Depending on the input, a scene will be produced.
+It will correspond to the jpg pictures provided.
